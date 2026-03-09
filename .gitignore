@@ -482,6 +482,6 @@ $RECYCLE.BIN/
 *.swp
 
 # data base
-*.db
+*.db*
 
 appsettings*.json
